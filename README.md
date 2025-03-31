@@ -2,10 +2,10 @@
 <img src="https://github.com/DruPro/Gravil/blob/main/Logo/PebbleJS.png" width="400" alt="Project Diagram">
 
 # Pebble.js
-Pebble.js is a visual IDE designed to revolutionize how web applications are built by using nodes or "pebbles" as fundamental building blocks. Our goal is to offer an open-source, extensible, and flexible platform that allows developers to create web applications with a visual approach while avoiding the pitfalls of spaghetti code.
+Pebble.js is a visual IDE designed to revolutionize how infrastructure is provisioned by using nodes or "pebbles" as fundamental building blocks. Our goal is to offer an open-source, extensible, and flexible platform that allows developers to create web applications with a visual approach while avoiding the pitfalls of spaghetti code.
 
 ## Description
-Pebble.js is an innovative visual IDE where you can construct web applications using a modular system of pebbles or nodes. Unlike other visual IDEs or no-code platforms, Pebble.js stands out due to its:
+Pebble.js is an innovative visual IDE where you can construct the infrasructure for a variety of applications using a modular system of pebbles or nodes. Unlike other visual IDEs or no-code platforms, Pebble.js stands out due to its:
 
 * Open Source: Fully open-source with an active community and contributions welcome.
 * Extensibility: Easily extendable with custom plugins and modules.
